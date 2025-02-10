@@ -1,7 +1,8 @@
 **mehrabix**  
-*Dev Evangelist | Frontend & Full-stack Developer*  
+*Dev Evangelist | Full-stack Developer*  
 [![GitHub followers](https://img.shields.io/github/followers/mehrabix?label=Follow&style=social)](https://github.com/mehrabix)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mehrabix)  
+[![Twitter](https://img.shields.io/twitter/follow/mehrabix?label=Follow&style=social)](https://twitter.com/mehrabix)  
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmehrabix.dev)](https://mehrabix.dev)
 
 ---
@@ -89,12 +90,13 @@ Here are some of the technologies and tools I've worked with:
 
 ### **DevOps & Deployment**
 
-- **Docker** - A platform for developing, shipping, and running applications inside containers
-- **Kubernetes** - Open-source system for automating deployment, scaling, and management of containerized applications
-- **GitLab CI/CD** - Continuous Integration and Continuous Deployment with GitLab
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker** - A platform for developing, shipping, and running applications inside containers
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes** - Open-source system for automating deployment, scaling, and management of containerized applications
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins** - Automation server for building, testing, and deploying software
+- ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?logo=gitlab&logoColor=white) **GitLab CI** - Continuous Integration and Deployment platform for GitLab repositories
 - **GitHub Actions** - Automating workflows and deployments in GitHub
-- **Terraform** - Infrastructure as code (IaC) for building, changing, and versioning infrastructure
 - **Ansible** - Open-source automation platform for automating configuration management, deployment, and orchestration
+- **CI/CD Pipelines** - Automated integration and delivery pipelines for continuous development
 
 ### **Other Tools**
 
@@ -102,8 +104,6 @@ Here are some of the technologies and tools I've worked with:
 - **Lerna** - A tool for managing JavaScript projects with multiple packages
 - **Karma** - A test runner for JavaScript that fits well with Angular testing
 - **WebSocket** - Protocol for real-time communication between web clients and servers
-- **Auth0** - Identity management platform for secure login and authentication
-- **Jalali Moment** - Persian date library for JavaScript
 - **Formik** - A library for building forms in React with easy-to-use validation and state management
 - **Axios** - Promise-based HTTP client for the browser and Node.js
 - **Styled Components** - A library for styling components in React using tagged template literals
@@ -116,7 +116,6 @@ Here are some of the technologies and tools I've worked with:
 Feel free to reach out if you want to talk about **JavaScript**, **TypeScript**, **React**, **TailwindCSS**, or any exciting tech topics. You can also check out my latest updates:
 
 - [LinkedIn](https://www.linkedin.com/in/mehrabix)
-- [Twitter](https://twitter.com/mehrabix)
 - [Email](mailto:mehrabi@post.com)
 
 ---
