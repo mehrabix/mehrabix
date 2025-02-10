@@ -1,129 +1,71 @@
-**mehrabix**  
-*Dev Evangelist | Full-stack Developer*  
+Here's the updated **README** with the missing icons for **Java**, **Spring Boot**, and **LPIC-2 Linux Services** added under the DevOps section:
+
+---
+
+# **mehrabix**  
+*Full-stack Software Engineer | Dev Evangelist*
+
 [![GitHub followers](https://img.shields.io/github/followers/mehrabix?label=Follow&style=social)](https://github.com/mehrabix)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mehrabix)  
-[![Twitter](https://img.shields.io/twitter/follow/mehrabix?label=Follow&style=social)](https://twitter.com/mehrabix)  
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmehrabix.dev)](https://mehrabix.dev)
 
 ---
 
-## 👩‍💻 **About Me**
+## **About Me**
 
-Hi there! I'm **Ahmad Mehrabi**, a passionate *Dev Evangelist* and *Software Engineer* with a love for building robust, scalable systems. I specialize in Full-stack development with a focus on frontend technologies like React, Angular, and Webpack. When I'm not coding, you can find me exploring new trends in the tech world or sharing knowledge with the community.
+I'm a **Full-stack Software Engineer** with 3+ years of experience working with technologies such as Java, Spring Boot, Node.js, React, Next.js, Angular, and others. I have experience in developing and integrating frontend and backend systems and designing scalable architectures. I’m also skilled in building and managing CI/CD pipelines, and I’m familiar with managing Linux servers and services.
 
 ---
 
-## 🚀 **Technologies & Tools**
-
-Here are some of the technologies and tools I've worked with:
+## **Technologies & Tools**
 
 ### **Frontend Libraries & Frameworks**
-
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) **React.js** - A JavaScript library for building user interfaces
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) **Next.js** - React framework for production with server-side rendering and static site generation
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) **Vue.js** - Progressive framework for building UIs and single-page applications
-- ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) **Svelte** - A radical new approach to building UIs
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) **Angular** - A platform and framework for building single-page client applications
-- ![Solid](https://img.shields.io/badge/SolidJS-FFFFFF?logo=solid&logoColor=black) **SolidJS** - A declarative JavaScript library for building UIs
-- ![Preact](https://img.shields.io/badge/Preact-000000?logo=preact&logoColor=white) **Preact** - A fast 3kB alternative to React
-- ![Stencil](https://img.shields.io/badge/Stencil-FF6F00?logo=stencil&logoColor=white) **Stencil** - A compiler for building fast, reusable web components
-
-### **State Management**
-
-- ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) **Redux** - A predictable state container for JavaScript apps
-- ![RxJS](https://img.shields.io/badge/RxJS-28B6F6?logo=rxjs&logoColor=white) **RxJS** - A library for reactive programming using observables
-- ![Zustand](https://img.shields.io/badge/Zustand-FF3A00?logo=zustand&logoColor=white) **Zustand** - A small, fast state management library
-- ![MobX](https://img.shields.io/badge/MobX-FF6F00?logo=mobx&logoColor=white) **MobX** - A simple and scalable state management tool for JavaScript apps
-- **Context API** - Built-in React tool for managing state
-
-### **CSS Frameworks & Tools**
-
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) **TailwindCSS** - A utility-first CSS framework for building custom designs
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) **Bootstrap** - Front-end framework for developing responsive websites
-- ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white) **Material UI** - React components that implement Google’s Material Design
-- **PostCSS** - A tool for transforming CSS with JavaScript plugins
-- **SASS** - A preprocessor scripting language that is interpreted or compiled into CSS
-
-### **Bundlers & Task Runners**
-
-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) **Webpack** - A static module bundler for JavaScript applications
-- ![Vite](https://img.shields.io/badge/Vite-000000?logo=vite&logoColor=white) **Vite** - A modern, fast build tool that focuses on speed and performance
-- ![Rspack](https://img.shields.io/badge/Rspack-000000?logo=webpack&logoColor=white) **Rspack** - A new bundler with efficient performance
-- **Parcel** - A fast, zero-config web application bundler
-
-### **Build Tools & Code Quality**
-
-- **Babel** - A JavaScript compiler that converts modern JavaScript into backward-compatible versions
-- **ESLint** - A pluggable and configurable linter tool for JavaScript and TypeScript
-- **Prettier** - Code formatter to enforce consistent style in your codebase
-- **Husky** - Git hooks to automate tasks before commits or pushes
-- **Commitlint** - Lint commit messages to follow conventional commit guidelines
-- **Lint-staged** - Run linters on pre-committed files for improved code quality
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) **React.js**  
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) **Next.js**  
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) **Angular**  
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) **Vue.js**  
+- ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) **Svelte**  
 
 ### **Backend Technologies**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) **Node.js**  
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) **NestJS**  
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) **Java**  
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white) **Spring Boot**  
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) **Express.js**  
 
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) **Node.js** - JavaScript runtime for building fast and scalable applications
-- **Express.js** - A minimal and flexible Node.js web application framework
-- **NestJS** - A framework for building efficient and scalable server-side applications using TypeScript
-- **GraphQL** - A query language for APIs and a runtime for executing queries
-- **Apollo Server** - A community-driven, open-source GraphQL server
-- **Socket.IO** - Enables real-time, bidirectional communication between web clients and servers
-- **JWT** - JSON Web Tokens for securely transmitting information between parties
+### **CI/CD & DevOps**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker**  
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes**  
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins**  
+- ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-330F63?logo=gitlab&logoColor=white) **GitLab CI/CD**  
+- ![LPIC-2](https://img.shields.io/badge/LPIC-2-6C6C6C?logo=lpi&logoColor=white) **LPIC-2 Linux Services**
 
 ### **Database & ORM Tools**
-
-- **MongoDB** - A document-based NoSQL database for building modern applications
-- **Prisma** - Next-generation Node.js ORM for database management
-- **TypeORM** - ORM for TypeScript and JavaScript with support for multiple databases
-- **Sequelize** - Promise-based Node.js ORM for SQL databases
-- **Redis** - In-memory data structure store for use as a database, cache, and message broker
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) **PostgreSQL**  
+- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) **Prisma ORM**  
 
 ### **Testing & Quality Assurance**
-
-- **Jest** - JavaScript testing framework with a focus on simplicity
-- **Mocha** - Feature-rich JavaScript test framework running on Node.js
-- **Cypress** - Fast, easy, and reliable testing for anything that runs in a browser
-- **Playwright** - Cross-browser automation for web testing
-- **Storybook** - Tool for building UI components in isolation
-- **React Testing Library** - A library for testing React components in a way that simulates user behavior
-- **Chai** - BDD/TDD assertion library for Node.js
-
-### **DevOps & Deployment**
-
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker** - A platform for developing, shipping, and running applications inside containers
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes** - Open-source system for automating deployment, scaling, and management of containerized applications
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins** - Automation server for building, testing, and deploying software
-- ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?logo=gitlab&logoColor=white) **GitLab CI** - Continuous Integration and Deployment platform for GitLab repositories
-- **GitHub Actions** - Automating workflows and deployments in GitHub
-- **Ansible** - Open-source automation platform for automating configuration management, deployment, and orchestration
-- **CI/CD Pipelines** - Automated integration and delivery pipelines for continuous development
-
-### **Other Tools**
-
-- **Nx** - Smart, extensible build system with powerful monorepo support
-- **Lerna** - A tool for managing JavaScript projects with multiple packages
-- **Karma** - A test runner for JavaScript that fits well with Angular testing
-- **WebSocket** - Protocol for real-time communication between web clients and servers
-- **Formik** - A library for building forms in React with easy-to-use validation and state management
-- **Axios** - Promise-based HTTP client for the browser and Node.js
-- **Styled Components** - A library for styling components in React using tagged template literals
-- **React Hook Form** - Performant, flexible form library for React
+- ![Jest](https://img.shields.io/badge/Jest-000000?logo=jest&logoColor=white) **Jest**  
+- ![Playwright](https://img.shields.io/badge/Playwright-2B3A3A?logo=playwright&logoColor=white) **Playwright**  
+- ![Vitest](https://img.shields.io/badge/Vitest-6F57FF?logo=vitest&logoColor=white) **Vitest**  
 
 ---
 
-## 💬 **Connect with Me**
+## **Key Skills**
+- **Frontend Architecture**: Expertise in building modular, scalable, and efficient frontend systems.
+- **Backend Development**: Focus on scalable, high-performance backend applications using Node.js, Spring Boot, and NestJS.
+- **CI/CD & DevOps**: Building automated pipelines with tools like Docker, Jenkins, and GitLab CI/CD.
+- **Database Design**: Efficient design and management of both relational and NoSQL databases.
+- **Linux Servers**: Deep experience with managing and configuring Linux environments.
 
-Feel free to reach out if you want to talk about **JavaScript**, **TypeScript**, **React**, **TailwindCSS**, or any exciting tech topics. You can also check out my latest updates:
+---
 
+## **Contact**
 - [LinkedIn](https://www.linkedin.com/in/mehrabix)
 - [Email](mailto:mehrabi@post.com)
+- [Website](https://mehrabix.dev)
 
 ---
 
-## 📣 **Support My Work**
-
-If you like my projects and want to support my work, you can:
-
-- ⭐️ Star my repositories.
-- 🔄 Fork and contribute to the projects.
-- 💬 Share your thoughts, improvements, and ideas with me!
+This is now complete with the added icons. Let me know if there's anything else you'd like to modify!
