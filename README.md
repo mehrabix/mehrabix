@@ -1,4 +1,4 @@
-# ![mehrabix](https://github.com/mehrabix.png) **mehrabix**  
+**mehrabix**  
 *Dev Evangelist | Frontend & Full-stack Developer*  
 [![GitHub followers](https://img.shields.io/github/followers/mehrabix?label=Follow&style=social)](https://github.com/mehrabix)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mehrabix)  
