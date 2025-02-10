@@ -1,8 +1,5 @@
-Here's the updated **README** with the missing icons for **Java**, **Spring Boot**, and **LPIC-2 Linux Services** added under the DevOps section:
 
----
-
-# **mehrabix**  
+# **Ahmad Mehrabi**  
 *Full-stack Software Engineer | Dev Evangelist*
 
 [![GitHub followers](https://img.shields.io/github/followers/mehrabix?label=Follow&style=social)](https://github.com/mehrabix)  
