@@ -2,7 +2,6 @@
 *Dev Evangelist | Frontend & Full-stack Developer*  
 [![GitHub followers](https://img.shields.io/github/followers/mehrabix?label=Follow&style=social)](https://github.com/mehrabix)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mehrabix)  
-[![Twitter](https://img.shields.io/twitter/follow/mehrabix?label=Follow&style=social)](https://twitter.com/mehrabix)  
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmehrabix.dev)](https://mehrabix.dev)
 
 ---
