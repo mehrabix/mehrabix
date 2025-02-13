@@ -22,6 +22,10 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) **Angular**  
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) **Vue.js**  
 - ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) **Svelte**  
+- ![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?logo=solid&logoColor=white) **SolidJS**  
+- ![Astro](https://img.shields.io/badge/Astro-FF5A03?logo=astro&logoColor=white) **Astro**  
+- ![Lit](https://img.shields.io/badge/Lit-324FFF?logo=lit&logoColor=white) **Lit**  
+- ![StencilJS](https://img.shields.io/badge/StencilJS-FF3E00?logo=stencil&logoColor=white) **StencilJS**
 
 ### **Backend Technologies**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) **Node.js**  
