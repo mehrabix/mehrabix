@@ -27,6 +27,18 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 - ![Lit](https://img.shields.io/badge/Lit-324FFF?logo=lit&logoColor=white) **Lit**  
 - ![StencilJS](https://img.shields.io/badge/StencilJS-FF3E00?logo=stencil&logoColor=white) **StencilJS**
 
+## **Build Tools & Bundlers**
+- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) **Webpack**  
+- ![Rspack](https://img.shields.io/badge/Rspack-FECC00?logo=rspack&logoColor=black) **Rspack**  
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) **Vite**  
+- ![Esbuild](https://img.shields.io/badge/Esbuild-FFCF00?logo=esbuild&logoColor=black) **Esbuild**  
+- ![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?logo=rollup.js&logoColor=white) **Rollup**  
+- ![Parcel](https://img.shields.io/badge/Parcel-FFCC00?logo=parcel&logoColor=black) **Parcel**  
+- ![Turbopack](https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=white) **Turbopack**  
+- ![NX](https://img.shields.io/badge/NX-143055?logo=nx&logoColor=white) **NX**  
+- ![SWC](https://img.shields.io/badge/SWC-FB5C00?logo=rust&logoColor=white) **SWC**  
+- ![Module Federation](https://img.shields.io/badge/Module%20Federation-FF6C37?logo=webpack&logoColor=white) **Module Federation**  
+
 ### **Backend Technologies**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) **Node.js**  
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) **NestJS**  
