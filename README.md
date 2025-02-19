@@ -57,7 +57,10 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 ### **Database & ORM Tools**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) **PostgreSQL**  
-- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) **Prisma ORM**  
+- ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?logo=oracle&logoColor=white) **OracleDB**  
+- ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white) **PL/SQL**  
+- ![Drizzle](https://img.shields.io/badge/Drizzle-4F8BFA?logo=drizzle&logoColor=white) **Drizzle ORM**  
+- ![TypeORM](https://img.shields.io/badge/TypeORM-E86B5A?logo=typeorm&logoColor=white) **TypeORM**  
 
 ### **Testing & Quality Assurance**
 - ![Jest](https://img.shields.io/badge/Jest-000000?logo=jest&logoColor=white) **Jest**  
