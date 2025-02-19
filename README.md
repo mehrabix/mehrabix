@@ -52,6 +52,7 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins**  
 - ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-330F63?logo=gitlab&logoColor=white) **GitLab CI/CD**  
 - ![LPIC-2](https://img.shields.io/badge/LPIC-2-6C6C6C?logo=lpi&logoColor=white) **LPIC-2 Linux Services**
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) **Nginx**  
 
 ### **Database & ORM Tools**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**  
