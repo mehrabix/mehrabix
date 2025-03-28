@@ -2,20 +2,42 @@
 <div align="center">
   <h3>Full-stack Software Engineer | Dev Evangelist</h3>
   
-  [![GitHub followers](https://img.shields.io/github/followers/mehrabix?label=Follow&style=social)](https://github.com/mehrabix)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mehrabix)  
-  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmehrabix.dev)](https://mehrabix.dev)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Software+Engineer;Dev+Evangelist;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehrabix&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mehrabix?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mehrabix?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/mehrabix?label=Commits&style=social" alt="GitHub Commits" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehrabix">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mehrabi@post.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mehrabix.dev">
+    <img src="https://img.shields.io/badge/Website-2D9EF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Software+Engineer;Dev+Evangelist;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehrabix&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabix&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+scalable+applications;Creating+beautiful+user+interfaces;Optimizing+performance" alt="Typing SVG" />
+</div>
 
 I'm a **Full-stack Software Engineer** with 3+ years of experience working with technologies such as Java, Spring Boot, Node.js, React, Next.js, Angular, and others. I have experience in developing and integrating frontend and backend systems and designing scalable architectures. I'm also skilled in building and managing CI/CD pipelines, and I'm familiar with managing Linux servers and services.
 
@@ -23,17 +45,21 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Frontend+Technologies;Backend+Technologies;DevOps+Tools;Database+Systems" alt="Typing SVG" />
+</div>
+
 ### Frontend Libraries & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?logo=solid&logoColor=white" alt="SolidJS" />
-  <img src="https://img.shields.io/badge/Astro-FF5A03?logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Lit-324FFF?logo=lit&logoColor=white" alt="Lit" />
-  <img src="https://img.shields.io/badge/StencilJS-FF3E00?logo=stencil&logoColor=white" alt="StencilJS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte" />
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?logo=solid&logoColor=white&style=for-the-badge" alt="SolidJS" />
+  <img src="https://img.shields.io/badge/Astro-FF5A03?logo=astro&logoColor=white&style=for-the-badge" alt="Astro" />
+  <img src="https://img.shields.io/badge/Lit-324FFF?logo=lit&logoColor=white&style=for-the-badge" alt="Lit" />
+  <img src="https://img.shields.io/badge/StencilJS-FF3E00?logo=stencil&logoColor=white&style=for-the-badge" alt="StencilJS" />
 </div>
 
 ### Build Tools & Bundlers
@@ -93,21 +119,62 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 <div align="center">
   <table>
     <tr>
-      <td>🎨 Frontend Architecture</td>
-      <td>⚡ Backend Development</td>
-      <td>🚀 CI/CD & DevOps</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Frontend%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Architecture" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Backend%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Development" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CI%2FCD%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD & DevOps" />
+      </td>
     </tr>
     <tr>
-      <td>💾 Database Design</td>
-      <td>🐧 Linux Servers</td>
-      <td>🔧 System Architecture</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Database%20Design-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Database Design" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux%20Servers-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Linux Servers" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="System Architecture" />
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📊 Development Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabix&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrabix&theme=radical&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehrabix&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehrabix&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehrabix&theme=radical" alt="Repos per Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehrabix&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehrabix&theme=radical" alt="Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehrabix&theme=radical&utcOffset=8" alt="Productive Time" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Let's+connect+and+create+something+amazing!;Feel+free+to+reach+out+for+any+questions" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mehrabix">
@@ -124,57 +191,5 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehrabix&color=blueviolet" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabix&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehrabix&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-
-## 📊 Development Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabix&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrabix&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehrabix&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mehrabix&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehrabix&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehrabix&theme=radical" alt="Repos per Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehrabix&theme=radical" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehrabix&theme=radical" alt="Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehrabix&theme=radical&utcOffset=8" alt="Productive Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+star+my+repositories" alt="Typing SVG" />
 </div>
