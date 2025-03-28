@@ -26,15 +26,23 @@ jobs:
           version: 8
           
       - name: Install dependencies
+        working-directory: ./portfolio
         run: pnpm install
         
       - name: Build
+        working-directory: ./portfolio
         run: pnpm build
+        
+      - name: Create deployment directory
+        run: |
+          mkdir -p deploy
+          cp -r portfolio/dist/* deploy/
+          cp README.md deploy/
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./deploy
 
   deploy:
     environment:
