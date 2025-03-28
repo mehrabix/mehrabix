@@ -2,7 +2,7 @@
 <div align="center">
   <h3>Full-stack Software Engineer | Dev Evangelist</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Software+Engineer;Dev+Evangelist;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Full-stack+Software+Engineer;Dev+Evangelist;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,7 +28,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehrabix&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabix&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabix&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -36,7 +39,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+scalable+applications;Creating+beautiful+user+interfaces;Optimizing+performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+applications;Creating+beautiful+user+interfaces;Optimizing+performance" alt="Typing SVG" />
 </div>
 
 I'm a **Full-stack Software Engineer** with 3+ years of experience working with technologies such as Java, Spring Boot, Node.js, React, Next.js, Angular, and others. I have experience in developing and integrating frontend and backend systems and designing scalable architectures. I'm also skilled in building and managing CI/CD pipelines, and I'm familiar with managing Linux servers and services.
@@ -46,7 +49,7 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Frontend+Technologies;Backend+Technologies;DevOps+Tools;Database+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Frontend+Technologies;Backend+Technologies;DevOps+Tools;Database+Systems" alt="Typing SVG" />
 </div>
 
 ### Frontend Libraries & Frameworks
@@ -173,7 +176,7 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Let's+connect+and+create+something+amazing!;Feel+free+to+reach+out+for+any+questions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Let's+connect+and+create+something+amazing!;Feel+free+to+reach+out+for+any+questions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -191,5 +194,5 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+star+my+repositories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+star+my+repositories" alt="Typing SVG" />
 </div>
