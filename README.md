@@ -6,21 +6,21 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehrabix&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mehrabix?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mehrabix?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/mehrabix?label=Commits&style=social" alt="GitHub Commits" />
+  <img src="https://img.shields.io/badge/Profile%20Views-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mehrabix?label=Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mehrabix?label=Stars&style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/mehrabix?label=Commits&style=flat-square&logo=github&logoColor=white" alt="GitHub Commits" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mehrabix">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mehrabi@post.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mehrabix.dev">
-    <img src="https://img.shields.io/badge/Website-2D9EF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-2D9EF7?style=flat-square&logo=firefox&logoColor=white" alt="Website" />
   </a>
 </div>
 
@@ -54,15 +54,15 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
 
 ### Frontend Libraries & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte" />
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?logo=solid&logoColor=white&style=for-the-badge" alt="SolidJS" />
-  <img src="https://img.shields.io/badge/Astro-FF5A03?logo=astro&logoColor=white&style=for-the-badge" alt="Astro" />
-  <img src="https://img.shields.io/badge/Lit-324FFF?logo=lit&logoColor=white&style=for-the-badge" alt="Lit" />
-  <img src="https://img.shields.io/badge/StencilJS-FF3E00?logo=stencil&logoColor=white&style=for-the-badge" alt="StencilJS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS" />
+  <img src="https://img.shields.io/badge/Astro-FF5A03?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white" alt="Lit" />
+  <img src="https://img.shields.io/badge/StencilJS-FF3E00?style=flat-square&logo=stencil&logoColor=white" alt="StencilJS" />
 </div>
 
 ### Build Tools & Bundlers
@@ -123,24 +123,24 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Frontend%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Architecture" />
+        <img src="https://img.shields.io/badge/Frontend%20Architecture-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend Architecture" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Backend%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Development" />
+        <img src="https://img.shields.io/badge/Backend%20Development-339933?style=flat-square&logo=node.js&logoColor=white" alt="Backend Development" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CI%2FCD%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD & DevOps" />
+        <img src="https://img.shields.io/badge/CI%2FCD%20%26%20DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="CI/CD & DevOps" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Database%20Design-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Database Design" />
+        <img src="https://img.shields.io/badge/Database%20Design-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Database Design" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Linux%20Servers-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Linux Servers" />
+        <img src="https://img.shields.io/badge/Linux%20Servers-009639?style=flat-square&logo=nginx&logoColor=white" alt="Linux Servers" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/System%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="System Architecture" />
+        <img src="https://img.shields.io/badge/System%20Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="System Architecture" />
       </td>
     </tr>
   </table>
