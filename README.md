@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Profile%20Views-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mehrabix?label=Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/mehrabix?label=Stars&style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/mehrabix?label=Commits&style=flat-square&logo=github&logoColor=white" alt="GitHub Commits" />
+  <img src="https://img.shields.io/badge/Commits-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub Commits" />
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabix&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mehrabix&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
