@@ -22,6 +22,9 @@
   <a href="https://mehrabix.dev">
     <img src="https://img.shields.io/badge/Website-2D9EF7?style=flat-square&logo=firefox&logoColor=white" alt="Website" />
   </a>
+  <a href="https://mehrabix.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2D9EF7?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
