@@ -19,7 +19,7 @@
   <a href="mailto:mehrabi@post.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mehrabix.github.io/portfolio/">
+  <a href="https://mehrabix.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-2D9EF7?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </div>
