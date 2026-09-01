@@ -1,8 +1,8 @@
 # <div align="center">👋 Hi there, I'm Ahmad Mehrabi</div>
 <div align="center">
-  <h3>Full-stack Software Engineer | Dev Evangelist</h3>
+  <h3>Software Engineer · Frontend-Focused · Full-stack Capable</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Full-stack+Software+Engineer;Dev+Evangelist;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend-Focused;Full-stack+Capable" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/mehrabix">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mehrabi@post.com">
+  <a href="mailto:ahmadmehrabi75@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mehrabix.vercel.app">
@@ -42,7 +42,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+applications;Creating+beautiful+user+interfaces;Optimizing+performance" alt="Typing SVG" />
 </div>
 
-I'm a **Full-stack Software Engineer** with 3+ years of experience working with technologies such as Java, Spring Boot, Node.js, React, Next.js, Angular, and others. I have experience in developing and integrating frontend and backend systems and designing scalable architectures. I'm also skilled in building and managing CI/CD pipelines, and I'm familiar with managing Linux servers and services.
+I'm a **frontend-focused Software Engineer** with 5+ years of experience building web, mobile, and desktop applications with Angular, React, Next.js, React Native, and Ionic. I'm full-stack capable with C#/.NET and Node.js, and I build AI-assisted products with tools like GitHub Copilot, MCP servers, custom agents, and the Vercel AI SDK. I also work with Shopify and headless commerce (Hydrogen, Storefront API, Liquid). Active open-source contributor.
 
 ---
 
@@ -63,6 +63,9 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
   <img src="https://img.shields.io/badge/Astro-FF5A03?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white" alt="Lit" />
   <img src="https://img.shields.io/badge/StencilJS-FF3E00?style=flat-square&logo=stencil&logoColor=white" alt="StencilJS" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Hydrogen-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Hydrogen" />
+  <img src="https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Liquid" />
 </div>
 
 ### Build Tools & Bundlers
@@ -86,6 +89,20 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" />
+</div>
+
+### AI-Assisted Development
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/MCP%20Servers-000000?logo=github&logoColor=white" alt="MCP Servers" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2D9EF7?logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?logo=vercel&logoColor=white" alt="Vercel AI SDK" />
 </div>
 
 ### CI/CD & DevOps
@@ -183,10 +200,10 @@ I'm a **Full-stack Software Engineer** with 3+ years of experience working with 
   <a href="https://www.linkedin.com/in/mehrabix">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mehrabi@post.com">
+  <a href="mailto:ahmadmehrabi75@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mehrabix.dev">
+  <a href="https://mehrabix.vercel.app">
     <img src="https://img.shields.io/badge/Website-2D9EF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
 </div>
