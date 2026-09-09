@@ -42,7 +42,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+applications;Creating+beautiful+user+interfaces;Optimizing+performance" alt="Typing SVG" />
 </div>
 
-I'm a **frontend-focused Software Engineer** with 5+ years of experience building web, mobile, and desktop applications with Angular, React, Next.js, React Native, and Ionic. I'm full-stack capable with C#/.NET and Node.js, and I build AI-assisted products with tools like GitHub Copilot, MCP servers, custom agents, and the Vercel AI SDK. I also work with Shopify and headless commerce (Hydrogen, Storefront API, Liquid). Active open-source contributor.
+I'm a Software Engineer** with 5+ years of experience building web, mobile, and desktop applications with Angular, React, Next.js, React Native, and Ionic. I'm full-stack capable with C#/.NET and Node.js, and I build AI-assisted products with tools like GitHub Copilot, MCP servers, custom agents, and the Vercel AI SDK. I also work with Shopify and headless commerce (Hydrogen, Storefront API, Liquid). Active open-source contributor.
 
 ---
 
