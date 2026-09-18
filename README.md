@@ -1,8 +1,7 @@
 # <div align="center">👋 Hi there, I'm Ahmad Mehrabi</div>
 <div align="center">
-  <h3>Software Engineer · Frontend-Focused · Full-stack Capable</h3>
+  <h3>Full Stack Software Engineer</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend-Focused;Full-stack+Capable" alt="Typing SVG" />
 </div>
 
 <div align="center">
