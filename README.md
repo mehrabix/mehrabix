@@ -68,6 +68,4 @@ Still comfortable on the app side, which comes in handy when I need to read a se
 
 Open to conversations about Kubernetes, reliability and open source. Easiest way to reach me is <a href="mailto:ahmadmehrabi75@gmail.com">email</a> or <a href="https://www.linkedin.com/in/mehrabix">LinkedIn</a>.
 
-<sub>LPIC-2 certified.</sub>
-
 </div>
