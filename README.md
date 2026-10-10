@@ -2,13 +2,13 @@
 
 # Ahmad Mehrabi
 
-**DevOps / Site Reliability Engineering**
+**Full Stack Software Engineer · Infrastructure / DevOps / SRE**
 
 Kubernetes, automation, and keeping production boring.
 
-<a href="https://www.linkedin.com/in/mehrabix"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ahmadmehrabi75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://mehrabix.vercel.app"><img src="https://img.shields.io/badge/Website-2D9EF7?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/mehrabix"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ahmadmehrabi75@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mehrabix.vercel.app"><img src="https://img.shields.io/badge/Website-21262d?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
 
 </div>
 
@@ -27,61 +27,38 @@ I work mostly around Kubernetes and cloud-native tooling. I build platforms, wir
 
 ## Toolbox
 
-**Containers & orchestration**
+**Containers & orchestration:** <img src="https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Helm-21262d?style=flat-square&logo=helm&logoColor=white" alt="Helm" /> <img src="https://img.shields.io/badge/Argo%20CD-21262d?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+**CI/CD & automation:** <img src="https://img.shields.io/badge/GitHub%20Actions-21262d?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/GitLab%20CI-21262d?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" /> <img src="https://img.shields.io/badge/Jenkins-21262d?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Ansible-21262d?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 
-**CI/CD & automation**
+**Observability:** <img src="https://img.shields.io/badge/Prometheus-21262d?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-21262d?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+**Linux & web:** <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Nginx-21262d?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 
-**Observability**
+**Languages & scripting:** <img src="https://img.shields.io/badge/Bash-21262d?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white" alt="Go" />
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+**Data:** <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Oracle-21262d?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
 
-**Linux & web**
+## Application development
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+Still comfortable on the app side, which comes in handy when I need to read a service, fix the pipeline that builds it, and then make it observable.
 
-**Languages & scripting**
+**Backend:** <img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-21262d?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-21262d?style=flat-square&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/.NET-21262d?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
 
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-
-**Data**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-
-<details>
-<summary>Application development background</summary>
-
-Comfortable on the app side too, which helps when I need to read a service, fix the pipeline that builds it, and then make it observable: Node.js/NestJS, Java/Spring, C#/.NET, and modern frontend work with React/Next.js/Angular.
-
-</details>
+**Frontend:** <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Angular-21262d?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehrabix&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabix&layout=compact&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mehrabix&show_icons=true&hide_border=true&hide_title=true&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabix&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mehrabix&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=mehrabix&hide_border=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
 
 </div>
 
